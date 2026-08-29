@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "Version 1.1.1 - Sesion persistente y parche de error",
-  "pub_date": "2026-08-29T16:48:00Z",
+  "version": "1.1.2",
+  "notes": "Version 1.1.2 - Sesion persistente y parche de error",
+  "pub_date": "2026-08-29T17:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXek1VcFNuaElNbHRGbTdVNyttREdwUGY2SWlLbnJUdm1KaVV5enlMZm1Nd2V6N0xOOVFFSHc5QUZtQmlLYkVHV01pOEY2cDRoa1I3UndvSjhlcC9EZGdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDM2NDUxCWZpbGU6d2VpZ2h0Y2xvdWRfMS4xLjFfeDY0LXNldHVwLmV4ZQpUakc0dTE0MVYwSVFNc2gzNFRqMDFmVXpLTGJ0ZFdPa21URUg4UElBakx1U0ZjWVlsUElRU3hUS2xxMllxUWpHczNCWENsZWVOU3ZUNXczUTJtQWtBQT09Cg==",
-      "url": "https://github.com/JustDespair/WeightCloud-Releases/releases/download/v1.1.1/weightcloud_1.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXelB1VkRXR1I3dDgrMGQrcm40M0tmZDFVWm95QnRza01FeEJwUXJJZTlqTHlCK0RoR0xVb1hBMy90T1gwalk2UXZwUlJNR29PeXo5bi8wSkttNmJYZndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDM3MTcyCWZpbGU6d2VpZ2h0Y2xvdWRfMS4xLjJfeDY0LXNldHVwLmV4ZQpDM3IzeXNmQ000dUp0bE9Pdm9nbjV2bkRpSHhJMk4wME5wajV1UUFOSlVSMVNwY3I2L01CNThiYzFYVjlNTE5QdUhxRXArcGR1b3BPcFpiNzlueEtDQT09Cg==",
+      "url": "https://github.com/JustDespair/WeightCloud-Releases/releases/download/v1.1.2/weightcloud_1.1.2_x64-setup.exe"
     }
   }
 }
