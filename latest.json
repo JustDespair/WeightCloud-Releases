@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "Version 1.0.4 - Parche al motor de busqueda de proveedores",
-  "pub_date": "2026-08-24T11:09:00Z",
+  "version": "1.1.0",
+  "notes": "Version 1.1.0 - Edicion de caja y parche de error",
+  "pub_date": "2026-08-29T16:29:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXekZvbW9lWXNNdlRoRnF3cTY2RVZZZERXdVBZZmJObWplSUs4aSs4VFNnR3J3WWhtN1JxdGQrbWZJc1dTZlpGUlhwT2FrUkRHdG1ESmt4MmtvWkVjcEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTg0MDc2CWZpbGU6d2VpZ2h0Y2xvdWRfMS4wLjRfeDY0LXNldHVwLmV4ZQpDLzRmVEJiZXNiWUZNSk5PcXllaHZLNjBLVVVNMXFjejNDZkR2anRub1FOV3JwOHAyLzVyQzNlVEtoVDBVREFYaDIxV3dnZHBqUWs5ZVFSTEVSbHNDUT09Cg==",
-      "url": "https://github.com/JustDespair/WeightCloud-Releases/releases/download/v1.0.4/weightcloud_1.0.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXek10eFlLU3pQSzJJcGJFQVNaRkREL2JVVU1zMnAyditrOEU5YUZ0Lzc2STJGZVlTZzZsQkxYd0paVG5OaWVxTksxMk5yeEc4dlZ1UXF2WVFjelNMVEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MDM1MTk1CWZpbGU6d2VpZ2h0Y2xvdWRfMS4xLjBfeDY0LXNldHVwLmV4ZQpneUFwOE5GeHdIZ2UxemdSMkp2TWdGMXFBVmh0NUlrRWI1a2ZUdlFmL0FkbFEyYlBZVDVCREd3bmVuckl1SkVwbnQzczhMcXR3VW1RTytseWZUVENEZz09Cg==",
+      "url": "https://github.com/JustDespair/WeightCloud-Releases/releases/download/v1.1.0/weightcloud_1.1.0_x64-setup.exe"
     }
   }
 }
