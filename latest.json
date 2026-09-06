@@ -1,11 +1,11 @@
 {
-  "version": "2.2.2",
-  "notes": "Version 2.2.2 - Ajustes de inventario y parche de errores de estilos",
-  "pub_date": "2026-09-06T15:45:00Z",
+  "version": "2.3.0",
+  "notes": "Version 2.3.0 - Arreglo de errores y Alternativa de busqueda de productos",
+  "pub_date": "2026-09-06T16:10:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXelBwR09ILzEzbkYwYjlLMmYvc0tmMGhJNXJHKzhyVmpuelNieXlqZ3IvNG1UZERwSjBtRTNFL1Z0L0lCaXN3Nm1GcW84NWN5cnhTQVA2cVZBTEs5Y0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzIzNjcyCWZpbGU6d2VpZ2h0Y2xvdWRfMi4yLjJfeDY0LXNldHVwLmV4ZQpiQ2hpS0ZyemJaYmVEcHo5THhQUDN5UW5ucUI1QndwM3JVZ0hrYmxTTnNWWkN3SXd6MkZQNHRVbzBkaytxdjdiK1p6VW4rU1Q5dVc3dEN6MURxVWpDUT09Cg==",
-      "url": "https://github.com/JustDespair/WeightCloud-Releases/releases/download/v2.2.2/weightcloud_2.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXek90dlpNeWlNWXJSNmdlZWZVWERORk1DTjhTdFJRc0lPOFZ6dVNGTDdnL0VUZXpXeE9aaGkraXAxYjVUVlZPNGZaOTdtMmI4djFtRkVaRm1iT3Fmb1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NzI1MjU3CWZpbGU6d2VpZ2h0Y2xvdWRfMi4zLjBfeDY0LXNldHVwLmV4ZQpuM3dOUFJ1S0VkTGg4TnZFOU9ESHZjMFd3SVhabzhtR09vNDE2blNZT2FyRTBpNEJJT0V3VnNzNVBrS0I3RHlyT2NNL0JQS1lGaTBQckliQzJHS0ZCQT09Cg==",
+      "url": "https://github.com/JustDespair/WeightCloud-Releases/releases/download/v2.3.0/weightcloud_2.3.0_x64-setup.exe"
     }
   }
 }
