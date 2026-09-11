@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
-  "notes": "Version 2.4.0 - Navegacion con flechas en flujo de pesaje",
-  "pub_date": "2026-09-11T13:13:00Z",
+  "version": "2.4.1",
+  "notes": "Version 2.4.1 - Peso sugerido en recepcion",
+  "pub_date": "2026-09-11T14:03:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXelBsK3pMNmg0bDRiZTYvOEJDV3NPTTJxNzJ4dm5na2dsSVVnRHgxbXBOTFJieWtnb0RXSTRPTFJzZmZwOVVuT2lNcXVicHpxQzlJejJZU1JUK2pOYnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQ2NzAyCWZpbGU6d2VpZ2h0Y2xvdWRfMi40LjBfeDY0LXNldHVwLmV4ZQoycjIyc0FJT2l1dFJIcW5hTmRaaWRhMnQwbW4xdWdhOFJCc0V0dXNYTkZYUGdQZFNVMzRFdXVIdDB2NU9ha3poK0tHMUhBZzJoVkpUVnRlcW1GRE5Ddz09Cg==",
-      "url": "https://github.com/JustDespair/WeightCloud-Releases/releases/download/v2.4.0/weightcloud_2.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdm1kdjB4ZXhXekROSktrN0plYnpUK0FQYVh6Uy9FWGtZTW41Tk1tbnAxdHZWTThCd0xRY0FJVG9EdkQ2aFRnaTRYS1hQeFY3T0kzckQ4d095QnZqUUk1TW55VXBmZGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTQ5NjcxCWZpbGU6d2VpZ2h0Y2xvdWRfMi40LjFfeDY0LXNldHVwLmV4ZQpNc1FUL3RvTlRlazNLSVBYbnVIMHV5ZUxoNFJGa2dyZE1SMmJTS0RoZCs4YURkalNRRUZWMTNwcXBTVCt4RnpRZE5CQm5ZQXJmNXpDNS85Umo3bWpCZz09Cg==",
+      "url": "https://github.com/JustDespair/WeightCloud-Releases/releases/download/v2.4.1/weightcloud_2.4.1_x64-setup.exe"
     }
   }
 }
